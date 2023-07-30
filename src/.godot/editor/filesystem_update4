@@ -1,0 +1,8 @@
+res://Main.tscn
+res://addons/localization_editor_plugin_g4/csv_loader.gd
+res://addons/localization_editor_plugin_g4/APITranslate.gd
+res://addons/localization_editor_plugin_g4/APITranslate.tscn
+res://addons/localization_editor_plugin_g4/Dock.gd
+res://addons/localization_editor_plugin_g4/LinkButtonRecentFile.gd
+res://addons/localization_editor_plugin_g4/HBxItemTranslation.gd
+res://addons/localization_editor_plugin_g4/HBxItemTranslation.tscn

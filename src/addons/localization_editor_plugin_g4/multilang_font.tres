@@ -1,0 +1,32 @@
+[gd_resource type="DynamicFont" load_steps=15 format=3]
+
+[ext_resource type="DynamicFontData" uid="uid://bj6wegd6c8pa" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansThaiUI_Regular.ttf" id="1"]
+[ext_resource type="DynamicFontData" uid="uid://fgrhm2xr0g33" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansTeluguUI_Regular.ttf" id="2"]
+[ext_resource type="DynamicFontData" uid="uid://w7paqogs5yet" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansHebrew_Regular.ttf" id="3"]
+[ext_resource type="DynamicFontData" uid="uid://carrmqtk68jwi" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansOriyaUI_Regular.ttf" id="4"]
+[ext_resource type="DynamicFontData" uid="uid://j7n35dffxrb1" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansSinhalaUI_Regular.ttf" id="5"]
+[ext_resource type="DynamicFontData" uid="uid://bbmh416nl5w3y" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansTamilUI_Regular.ttf" id="6"]
+[ext_resource type="DynamicFontData" uid="uid://c2njl5c7l2qan" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansMalayalamUI_Regular.ttf" id="7"]
+[ext_resource type="DynamicFontData" uid="uid://cwohsu4bho7t5" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansGeorgian_Regular.ttf" id="8"]
+[ext_resource type="DynamicFontData" uid="uid://c11vstgo0jbkp" path="res://addons/localization_editor_plugin_g4/extra_fonts/DroidSansJapanese.ttf" id="9"]
+[ext_resource type="DynamicFontData" uid="uid://cs24we6n4s5ws" path="res://addons/localization_editor_plugin_g4/extra_fonts/DroidSansFallback.ttf" id="10"]
+[ext_resource type="DynamicFontData" uid="uid://hixs8twsptl5" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansDevanagariUI_Regular.ttf" id="11"]
+[ext_resource type="DynamicFontData" uid="uid://bxyys7qvhwnor" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoNaskhArabicUI_Regular.ttf" id="12"]
+[ext_resource type="DynamicFontData" uid="uid://bguasw3406pg5" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSans-Regular.ttf" id="13"]
+[ext_resource type="DynamicFontData" uid="uid://ddolwlrh7h3nn" path="res://addons/localization_editor_plugin_g4/extra_fonts/NotoSansBengali_Regular.ttf" id="14"]
+
+[resource]
+font_data = ExtResource( 13 )
+fallback/0 = ExtResource( 10 )
+fallback/1 = ExtResource( 9 )
+fallback/2 = ExtResource( 12 )
+fallback/3 = ExtResource( 14 )
+fallback/4 = ExtResource( 11 )
+fallback/5 = ExtResource( 8 )
+fallback/6 = ExtResource( 3 )
+fallback/7 = ExtResource( 7 )
+fallback/8 = ExtResource( 4 )
+fallback/9 = ExtResource( 5 )
+fallback/10 = ExtResource( 6 )
+fallback/11 = ExtResource( 2 )
+fallback/12 = ExtResource( 1 )
